@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=230&section=header&text=Prathamesh%20Singh%20Rajput&fontSize=44&fontColor=0f172a&fontAlignY=38&animation=twinkling&desc=B.Tech%20CSE%20Student%20%7C%20Aspiring%20Software%20Developer&descSize=18&descAlignY=58&descColor=0f172a" alt="Prathamesh Singh Rajput - B.Tech CSE Student | Aspiring Software Developer" width="100%" />
@@ -27,11 +28,26 @@
 
 ```typescript
 const prathamesh = {
-  title: "B.Tech Computer Science Engineering Student | Aspiring Software Developer | Exploring Technology & Building My Skills with Experience",
+  title:
+    "B.Tech Computer Science Engineering Student | " +
+    "Aspiring Software Developer | Exploring Technology " +
+    "& Building My Skills with Experience",
+
   stack: {
-    languages: ["Python", "JavaScript", "HTML", "CSS"],
+    languages: [
+      "Python",
+      "JavaScript",
+      "HTML",
+      "CSS",
+    ],
+
     devTools: ["Git", "GitHub"],
-    currentlyLearning: ["Problem Solving", "Making Projects"],
+
+    currentlyLearning: [
+      "Problem Solving",
+      "Making Projects",
+    ],
+
     areasOfInterest: [
       "Software Development",
       "Artificial Intelligence",
@@ -39,23 +55,50 @@ const prathamesh = {
       "Web Development",
     ],
   },
+
   launchedProjects: [
-    "YojanaMitra - Government Eligibility Scheme Matcher",
-    "NeuroSaathi - AI-Powered Cognitive Companion for Elderly Dementia Patients",
+    "YojanaMitra - Government Eligibility " +
+      "Scheme Matcher",
+
+    "NeuroSaathi - AI-Powered Cognitive " +
+      "Companion for Elderly Dementia Patients",
   ],
+
   certifications: [
-    "AI Tools and ChatGPT Workshop - Be10x (April 2025)",
-    "Artificial Intelligence Mastery - Beep Learning (July 2026)",
-    "Debate Competition, Participation - MGM University, JNEC (Engineers' Day, Sept 2026)",
-    "OpenForge Hackathon, Participation - Swayambhu 2026, JNEC, MGM University (Oct 2026)",
+    "AI Tools and ChatGPT Workshop - " +
+      "Be10x (April 2025)",
+
+    "Artificial Intelligence Mastery - " +
+      "Beep Learning (July 2026)",
+
+    "Debate Competition, Participation - " +
+      "MGM University, JNEC " +
+      "(Engineers' Day, Sept 2026)",
+
+    "OpenForge Hackathon, Participation - " +
+      "Swayambhu 2026, JNEC, MGM University " +
+      "(Oct 2026)",
   ],
-  status: "Turning Curiosity Into Code | CSE Undergraduate | Aspiring Software Engineer",
+
+  status:
+    "Turning Curiosity Into Code | " +
+    "CSE Undergraduate | Aspiring Software Engineer",
+
   openTo: [
-    "Building innovative projects with passionate developers",
-    "Exploring software engineering and AI opportunities",
-    "Internship opportunities to learn, grow, and contribute",
-    "Open-source projects and meaningful collaborations",
-    "Hackathons that challenge me to think beyond the ordinary",
+    "Building innovative projects with " +
+      "passionate developers",
+
+    "Exploring software engineering " +
+      "and AI opportunities",
+
+    "Internship opportunities to learn, " +
+      "grow, and contribute",
+
+    "Open-source projects and meaningful " +
+      "collaborations",
+
+    "Hackathons that challenge me to think " +
+      "beyond the ordinary",
   ],
 };
 ```
