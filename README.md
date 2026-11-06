@@ -26,60 +26,47 @@
 
 ## 👤 Who I Am
 
-```typescript
-const prathamesh = {
-  title:
-    "B.Tech Computer Science Engineering Student | " +
-    "Aspiring Software Developer | Exploring Technology " +
-    "& Building My Skills with Experience",
+I'm a **B.Tech Computer Science Engineering student** and an aspiring software developer passionate about exploring technology, solving problems, and building meaningful digital solutions.
 
-  stack: {
-    languages: ["Python", "JavaScript", "HTML", "CSS"],
-    devTools: ["Git", "GitHub"],
+### 💻 My Technical Profile
 
-    currentlyLearning: [
-      "Problem Solving",
-      "Making Projects",
-    ],
+- **Role:** B.Tech CSE Student | Aspiring Software Developer
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Developer Tools:** Git, GitHub
+- **Currently Learning:** Problem Solving, Project Development
+- **Areas of Interest:** Software Development, Artificial Intelligence, Data Structures & Algorithms, Web Development
 
-    areasOfInterest: [
-      "Software Development",
-      "Artificial Intelligence",
-      "Data Structures & Algorithms",
-      "Web Development",
-    ],
-  },
+### 🚀 Projects I've Built
 
-  launchedProjects: [
-    "YojanaMitra - Government Eligibility Scheme Matcher",
-    "NeuroSaathi - AI-Powered Cognitive Companion for Elderly Dementia Patients",
-  ],
+- **YojanaMitra:** Government Eligibility Scheme Matcher
+- **NeuroSaathi:** AI-Powered Cognitive Companion for Elderly Dementia Patients
 
-  certifications: [
-    "AI Tools and ChatGPT Workshop - Be10x (April 2025)",
-    "Artificial Intelligence Mastery - Beep Learning (July 2026)",
-    "Debate Competition, Participation - MGM University, JNEC (Engineers' Day, Sept 2026)",
-    "OpenForge Hackathon, Participation - Swayambhu 2026, JNEC, MGM University (Oct 2026)",
-  ],
+### 🏆 Certifications & Achievements
 
-  status:
-    "Turning Curiosity Into Code | CSE Undergraduate | Aspiring Software Engineer",
+- AI Tools and ChatGPT Workshop – Be10x (April 2025)
+- Artificial Intelligence Mastery – Beep Learning (July 2026)
+- Debate Competition – MGM University, JNEC (September 2026)
+- OpenForge Hackathon – Swayambhu 2026, JNEC, MGM University (October 2026)
 
-  openTo: [
-    "Building innovative projects with passionate developers",
-    "Exploring software engineering and AI opportunities",
-    "Internship opportunities to learn, grow, and contribute",
-    "Open-source projects and meaningful collaborations",
-    "Hackathons that challenge me to think beyond the ordinary",
-  ],
-};
-```
+### 🎯 What I'm Looking For
 
-> Exploring the world of technology, experimenting with ideas, and building solutions that make a difference. Currently sharpening my programming skills and discovering the endless possibilities of software engineering and artificial intelligence.
->
-> From reimagining access to government schemes with **YojanaMitra** to exploring AI-driven cognitive support with **NeuroSaathi**, I enjoy transforming meaningful ideas into technology-driven solutions.
->
-> *I believe great software begins with curiosity, grows through collaboration, and creates impact through innovation.*
+- Building innovative projects with passionate developers.
+- Exploring software engineering and AI opportunities.
+- Internship opportunities to learn, grow, and contribute.
+- Open-source projects and meaningful collaborations.
+- Hackathons that challenge me to think beyond the ordinary.
+
+### 💡 My Approach
+
+> Turning curiosity into code, continuously improving my skills, and transforming ideas into useful technology-driven solutions.
+
+---
+
+Exploring the world of technology, experimenting with ideas, and building solutions that make a difference. Currently sharpening my programming skills and discovering the endless possibilities of software engineering and artificial intelligence.
+
+From reimagining access to government schemes with **YojanaMitra** to exploring AI-driven cognitive support with **NeuroSaathi**, I enjoy transforming meaningful ideas into technology-driven solutions.
+
+*I believe great software begins with curiosity, grows through collaboration, and creates impact through innovation.*
 
 ---
 
