@@ -34,13 +34,7 @@ const prathamesh = {
     "& Building My Skills with Experience",
 
   stack: {
-    languages: [
-      "Python",
-      "JavaScript",
-      "HTML",
-      "CSS",
-    ],
-
+    languages: ["Python", "JavaScript", "HTML", "CSS"],
     devTools: ["Git", "GitHub"],
 
     currentlyLearning: [
@@ -57,48 +51,26 @@ const prathamesh = {
   },
 
   launchedProjects: [
-    "YojanaMitra - Government Eligibility " +
-      "Scheme Matcher",
-
-    "NeuroSaathi - AI-Powered Cognitive " +
-      "Companion for Elderly Dementia Patients",
+    "YojanaMitra - Government Eligibility Scheme Matcher",
+    "NeuroSaathi - AI-Powered Cognitive Companion for Elderly Dementia Patients",
   ],
 
   certifications: [
-    "AI Tools and ChatGPT Workshop - " +
-      "Be10x (April 2025)",
-
-    "Artificial Intelligence Mastery - " +
-      "Beep Learning (July 2026)",
-
-    "Debate Competition, Participation - " +
-      "MGM University, JNEC " +
-      "(Engineers' Day, Sept 2026)",
-
-    "OpenForge Hackathon, Participation - " +
-      "Swayambhu 2026, JNEC, MGM University " +
-      "(Oct 2026)",
+    "AI Tools and ChatGPT Workshop - Be10x (April 2025)",
+    "Artificial Intelligence Mastery - Beep Learning (July 2026)",
+    "Debate Competition, Participation - MGM University, JNEC (Engineers' Day, Sept 2026)",
+    "OpenForge Hackathon, Participation - Swayambhu 2026, JNEC, MGM University (Oct 2026)",
   ],
 
   status:
-    "Turning Curiosity Into Code | " +
-    "CSE Undergraduate | Aspiring Software Engineer",
+    "Turning Curiosity Into Code | CSE Undergraduate | Aspiring Software Engineer",
 
   openTo: [
-    "Building innovative projects with " +
-      "passionate developers",
-
-    "Exploring software engineering " +
-      "and AI opportunities",
-
-    "Internship opportunities to learn, " +
-      "grow, and contribute",
-
-    "Open-source projects and meaningful " +
-      "collaborations",
-
-    "Hackathons that challenge me to think " +
-      "beyond the ordinary",
+    "Building innovative projects with passionate developers",
+    "Exploring software engineering and AI opportunities",
+    "Internship opportunities to learn, grow, and contribute",
+    "Open-source projects and meaningful collaborations",
+    "Hackathons that challenge me to think beyond the ordinary",
   ],
 };
 ```
